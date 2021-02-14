@@ -1,4 +1,4 @@
-# tattoo
+# tattoo presentational website
 
 ## Build Setup
 
